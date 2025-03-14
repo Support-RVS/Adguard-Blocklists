@@ -1,0 +1,163 @@
+# Whitelist para pmg - AdGuard Home
+# Desbloquea todos los dominios y servicios segun surja la necesidad.
+# Última actualización: 14/03/2025
+
+# Desbloqueo Whatsapp
+
+@@||whatsapp.com^$client='Daniela Torres'
+@@||whatsapp.com^$client='Jacqueline Franco'
+@@||whatsapp.com^$client='Natalia Neira'
+@@||whatsapp.com^$client='Adriana Lara'
+
+@@||whatsapp.net^$client='Daniela Torres'
+@@||whatsapp.net^$client='Jacqueline Franco'
+@@||whatsapp.net^$client='Natalia Neira'
+@@||whatsapp.net^$client='Adriana Lara'
+
+@@||mmg.whatsapp.net^$client='Daniela Torres'
+@@||mmg.whatsapp.net^$client='Jacqueline Franco'
+@@||mmg.whatsapp.net^$client='Natalia Neira'
+@@||mmg.whatsapp.net^$client='Adriana Lara'
+
+@@||c.whatsapp.net^$client='Daniela Torres'
+@@||c.whatsapp.net^$client='Jacqueline Franco'
+@@||c.whatsapp.net^$client='Natalia Neira'
+@@||c.whatsapp.net^$client='Adriana Lara'
+
+@@||e1.whatsapp.net^$client='Daniela Torres'
+@@||e1.whatsapp.net^$client='Jacqueline Franco'
+@@||e1.whatsapp.net^$client='Natalia Neira'
+@@||e1.whatsapp.net^$client='Adriana Lara'
+
+@@||e2.whatsapp.net^$client='Daniela Torres'
+@@||e2.whatsapp.net^$client='Jacqueline Franco'
+@@||e2.whatsapp.net^$client='Natalia Neira'
+@@||e2.whatsapp.net^$client='Adriana Lara'
+
+@@||e3.whatsapp.net^$client='Daniela Torres'
+@@||e3.whatsapp.net^$client='Jacqueline Franco'
+@@||e3.whatsapp.net^$client='Natalia Neira'
+@@||e3.whatsapp.net^$client='Adriana Lara'
+
+@@||e4.whatsapp.net^$client='Daniela Torres'
+@@||e4.whatsapp.net^$client='Jacqueline Franco'
+@@||e4.whatsapp.net^$client='Natalia Neira'
+@@||e4.whatsapp.net^$client='Adriana Lara'
+
+@@||e5.whatsapp.net^$client='Daniela Torres'
+@@||e5.whatsapp.net^$client='Jacqueline Franco'
+@@||e5.whatsapp.net^$client='Natalia Neira'
+@@||e5.whatsapp.net^$client='Adriana Lara'
+
+@@||e6.whatsapp.net^$client='Daniela Torres'
+@@||e6.whatsapp.net^$client='Jacqueline Franco'
+@@||e6.whatsapp.net^$client='Natalia Neira'
+@@||e6.whatsapp.net^$client='Adriana Lara'
+
+@@||e7.whatsapp.net^$client='Daniela Torres'
+@@||e7.whatsapp.net^$client='Jacqueline Franco'
+@@||e7.whatsapp.net^$client='Natalia Neira'
+@@||e7.whatsapp.net^$client='Adriana Lara'
+
+@@||e8.whatsapp.net^$client='Daniela Torres'
+@@||e8.whatsapp.net^$client='Jacqueline Franco'
+@@||e8.whatsapp.net^$client='Natalia Neira'
+@@||e8.whatsapp.net^$client='Adriana Lara'
+
+@@||e9.whatsapp.net^$client='Daniela Torres'
+@@||e9.whatsapp.net^$client='Jacqueline Franco'
+@@||e9.whatsapp.net^$client='Natalia Neira'
+@@||e9.whatsapp.net^$client='Adriana Lara'
+
+@@||e10.whatsapp.net^$client='Daniela Torres'
+@@||e10.whatsapp.net^$client='Jacqueline Franco'
+@@||e10.whatsapp.net^$client='Natalia Neira'
+@@||e10.whatsapp.net^$client='Adriana Lara'
+
+@@||e11.whatsapp.net^$client='Daniela Torres'
+@@||e11.whatsapp.net^$client='Jacqueline Franco'
+@@||e11.whatsapp.net^$client='Natalia Neira'
+@@||e11.whatsapp.net^$client='Adriana Lara'
+
+@@||e12.whatsapp.net^$client='Daniela Torres'
+@@||e12.whatsapp.net^$client='Jacqueline Franco'
+@@||e12.whatsapp.net^$client='Natalia Neira'
+@@||e12.whatsapp.net^$client='Adriana Lara'
+
+@@||e13.whatsapp.net^$client='Daniela Torres'
+@@||e13.whatsapp.net^$client='Jacqueline Franco'
+@@||e13.whatsapp.net^$client='Natalia Neira'
+@@||e13.whatsapp.net^$client='Adriana Lara'
+
+@@||e14.whatsapp.net^$client='Daniela Torres'
+@@||e14.whatsapp.net^$client='Jacqueline Franco'
+@@||e14.whatsapp.net^$client='Natalia Neira'
+@@||e14.whatsapp.net^$client='Adriana Lara'
+
+@@||e15.whatsapp.net^$client='Daniela Torres'
+@@||e15.whatsapp.net^$client='Jacqueline Franco'
+@@||e15.whatsapp.net^$client='Natalia Neira'
+@@||e15.whatsapp.net^$client='Adriana Lara'
+
+@@||media.whatsapp.com^$client='Daniela Torres'
+@@||media.whatsapp.com^$client='Jacqueline Franco'
+@@||media.whatsapp.com^$client='Natalia Neira'
+@@||media.whatsapp.com^$client='Adriana Lara'
+
+@@||media.whatsapp.net^$client='Daniela Torres'
+@@||media.whatsapp.net^$client='Jacqueline Franco'
+@@||media.whatsapp.net^$client='Natalia Neira'
+@@||media.whatsapp.net^$client='Adriana Lara'
+
+@@||mms.whatsapp.net^$client='Daniela Torres'
+@@||mms.whatsapp.net^$client='Jacqueline Franco'
+@@||mms.whatsapp.net^$client='Natalia Neira'
+@@||mms.whatsapp.net^$client='Adriana Lara'
+
+@@||call.whatsapp.com^$client='Daniela Torres'
+@@||call.whatsapp.com^$client='Jacqueline Franco'
+@@||call.whatsapp.com^$client='Natalia Neira'
+@@||call.whatsapp.com^$client='Adriana Lara'
+
+@@||voice.whatsapp.com^$client='Daniela Torres'
+@@||voice.whatsapp.com^$client='Jacqueline Franco'
+@@||voice.whatsapp.com^$client='Natalia Neira'
+@@||voice.whatsapp.com^$client='Adriana Lara'
+
+@@||static.whatsapp.net^$client='Daniela Torres'
+@@||static.whatsapp.net^$client='Jacqueline Franco'
+@@||static.whatsapp.net^$client='Natalia Neira'
+@@||static.whatsapp.net^$client='Adriana Lara'
+
+@@||cdn.whatsapp.net^$client='Daniela Torres'
+@@||cdn.whatsapp.net^$client='Jacqueline Franco'
+@@||cdn.whatsapp.net^$client='Natalia Neira'
+@@||cdn.whatsapp.net^$client='Adriana Lara'
+
+@@||web.whatsapp.com^$client='Daniela Torres'
+@@||web.whatsapp.com^$client='Jacqueline Franco'
+@@||web.whatsapp.com^$client='Natalia Neira'
+@@||web.whatsapp.com^$client='Adriana Lara'
+
+@@||web.whatsapp.net^$client='Daniela Torres'
+@@||web.whatsapp.net^$client='Jacqueline Franco'
+@@||web.whatsapp.net^$client='Natalia Neira'
+@@||web.whatsapp.net^$client='Adriana Lara'
+
+@@||w.whatsapp.net^$client='Daniela Torres'
+@@||w.whatsapp.net^$client='Jacqueline Franco'
+@@||w.whatsapp.net^$client='Natalia Neira'
+@@||w.whatsapp.net^$client='Adriana Lara'
+
+@@||dyn.whatsapp.net^$client='Daniela Torres'
+@@||dyn.whatsapp.net^$client='Jacqueline Franco'
+@@||dyn.whatsapp.net^$client='Natalia Neira'
+@@||dyn.whatsapp.net^$client='Adriana Lara'
+
+@@||f.whatsapp.net^$client='Daniela Torres'
+@@||f.whatsapp.net^$client='Jacqueline Franco'
+@@||f.whatsapp.net^$client='Natalia Neira'
+@@||f.whatsapp.net^$client='Adriana Lara'
+
+
+# Fin de la Whatsapp
