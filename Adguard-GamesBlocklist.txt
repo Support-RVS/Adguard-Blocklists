@@ -11061,3 +11061,16 @@
 ||geforcenow.com^
 ||shadow.tech^
 ||nosdevoirs.fr^
+||yandex.net^
+||yandex.com^
+||playhop.com^
+||www.frivclassic.com^
+||wormate.io^
+||slither.com^
+||slither.io^
+||slitheriogame.io^
+||gateway.wormate.io^
+||wormate.io^
+||_30407._https.vin-a.wormate.io^
+||vin-a.wormate.io^
+||gameplay.intel.com^
