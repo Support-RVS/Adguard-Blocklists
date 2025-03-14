@@ -1,0 +1,41 @@
+# 📌 Personal Block List for AdGuard Home
+#
+# 🔹 Description:
+# This is a strictly personal blocklist, used only in my environment.
+# Its purpose is to block websites that appear in the request log and that # I consider not allowed.
+# I consider not allowed.
+#
+# ⚠️ Important note:
+# - This list is **personalized** and is not intended for general use.
+# - The domains included have been manually identified as unwanted in my network.
+# - It is continuously updated as new blockable requests appear.
+#
+# 📅 Last Updated: 14/03/2025
+
+
+#Streaming & Music
+||audiocdn27.mixcloud.com^$important
+||api.arte.tv^$important
+||arte.tv^$important
+||gameplay.intel.com^$important
+||hearthis.at^$important
+||stream52.hearthis.at^$important
+#DNS Services
+||dns.google^$important
+||tunnel.googlezip.net^$important
+||doh.opendns.com^$important
+||doh.cleanbrowsing.org^$important
+||any.yandex.ru^$important
+||sockjs.pusher.com^$important
+||^$important
+||^$important
+#Browsers
+||bing.com^$important
+||yandex.ru^$important
+||ya.ru^
+||strm.yandex.ru^$important
+#LudoPages
+||apuestasegura.net^
+||juegosdeazar.com^
+||betplay.com.co^
+
