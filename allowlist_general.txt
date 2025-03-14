@@ -1,0 +1,58 @@
+# ✅ General Allowlist for AdGuard Home
+#
+# 🔹 Description:
+# This list is used to allow access to domains that may be blocked by other lists,
+# but which are necessary for the proper functioning of legitimate services and applications.
+#
+# ⚠️ Important note:
+# - This list **overrides previous blocks** in AdGuard Home.
+# - It should only include essential domains to avoid interference in the daily use of services.
+# - It is updated as domains requiring access are identified in my environment.
+#
+# 📅 Last Updated: 14/03/2025
+
+
+# 🔄 Servicios esenciales  
+@@||microsoft.com^  
+@@||office.com^  
+@@||windowsupdate.com^  
+@@||apple.com^  
+@@||icloud.com^  
+@@||google.com^  
+@@||gstatic.com^  
+@@||googleapis.com^  
+
+# 💬 Mensajería y comunicación   
+@@||zoom.us^  
+@@||meet.google.com^  
+
+# 📺 Streaming y multimedia   
+@@||spotify.demdex.net^$important  
+
+# 🔧 Herramientas de trabajo y productividad    
+@@||slack.com^  
+@@||notion.so^    
+@@||wetransfer.com^  
+
+# 🌍 Navegación segura y utilidades    
+@@||speedtest.net^ 
+
+# 📝 Grammarly (Corrector ortográfico y gramatical)  
+@@||grammarly.io^$important  
+@@||data.grammarly.com^$important  
+@@||treatment.grammarly.com^$important  
+@@||gnar.grammarly.com^$important  
+
+# 🎧 Talkdesk (Plataforma de Contact Center)  
+@@||talkdesk-prod.live.dynatrace.com^$important  
+@@||data.productdatausage.external.talkdeskapp.com^$important  
+@@||content.productdatausage.external.talkdeskapp.com^$important  
+@@||support.talkdesk.com^$important  
+@@||eventgw.twilio.com^$important  
+@@||ws.pusherapp.com^$important  
+@@||sdk.split.io^$important  
+@@||events.split.io^$important  
+@@||td-prd-recordings.s3.amazonaws.com^$important  
+@@||td-prd-recordings.s3.eu-central-1.amazonaws.com^$important  
+@@||td-prd-recordings.s3.ca-central-1.amazonaws.com^$important  
+
