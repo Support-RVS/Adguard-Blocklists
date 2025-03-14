@@ -1,50 +1,50 @@
-# Listas de Bloqueo y Listas Blancas para AdGuard Home (Personalizadas)
+# Blocklists and Whitelists for AdGuard Home (Personalized)
 
-Este repositorio contiene listas de bloqueo y listas blancas personalizadas, diseñadas para mi uso personal con AdGuard Home.
+This repository contains personalized blocklists and whitelists designed for my personal use with AdGuard Home.
 
-## Propósito y Descargo de Responsabilidad
+## Purpose and Disclaimer
 
-El objetivo principal de este repositorio es albergar listas de filtrado que he creado y mantenido para mi propio entorno. **Es importante destacar que estas listas están adaptadas a mis necesidades y preferencias específicas, y pueden no ser adecuadas para el uso general.**
+The primary goal of this repository is to host filtering lists that I have created and maintained for my own environment. **It is important to note that these lists are tailored to my specific needs and preferences and may not be suitable for general use.**
 
-Debido a su naturaleza personalizada, las listas aquí contenidas:
+Due to their personalized nature, the lists contained here:
 
-* Pueden no ser exhaustivas o completas.
-* Pueden contener bloqueos o excepciones muy específicos.
-* No están diseñadas para proporcionar una solución de filtrado robusta y universal.
+* May not be exhaustive or complete.
+* May contain very specific blocks or exceptions.
+* Are not designed to provide a robust and universal filtering solution.
 
-Si bien las listas pueden ser útiles para otros usuarios, **se recomienda encarecidamente revisarlas y ajustarlas a sus propias necesidades.** No me hago responsable del contenido o la efectividad de estas listas en otros entornos.
+While these lists may be useful to other users, **it is strongly recommended to review and adjust them to fit your own needs.** I am not responsible for the content or effectiveness of these lists in other environments.
 
-Las listas aquí contenidas están destinadas a:
+The lists included here are intended to:
 
-* Bloquear anuncios molestos y rastreadores (según mis preferencias).
-* Bloquear sitios web maliciosos y de phishing (en la medida de mis investigaciones).
-* Permitir el acceso a sitios web y servicios específicos (que yo utilizo).
-* Bloquear contenido inapropiado o dañino (según mis criterios).
+* Block annoying ads and trackers (according to my preferences).
+* Block malicious and phishing websites (to the best of my research).
+* Allow access to specific websites and services (that I use).
+* Block inappropriate or harmful content (according to my criteria).
 
-## Uso con AdGuard Home
+## Usage with AdGuard Home
 
-Para utilizar estas listas en tu AdGuard Home, sigue estos pasos:
+To use these lists in your AdGuard Home, follow these steps:
 
-1.  **Copia la URL de la lista:** Navega hasta el archivo de la lista que deseas utilizar (por ejemplo, `blocklist-ads.txt` o `whitelist-social.txt`) y copia la URL del archivo "raw".
-2.  **Abre la Configuración de AdGuard Home:** Accede a la interfaz web de tu AdGuard Home.
-3.  **Agrega la Lista:**
-    * Ve a la sección "Filtros".
-    * Haz clic en "Listas de bloqueo" o "Listas blancas", según corresponda.
-    * Haz clic en "Agregar lista".
-    * Pega la URL del archivo raw que copiaste.
-    * Haz clic en "Agregar".
-4.  **Aplica los Cambios:** AdGuard Home descargará y aplicará la lista automáticamente.
+1.  **Copy the list URL:** Navigate to the file of the list you want to use (e.g., `blocklist-ads.txt` or `whitelist-social.txt`) and copy the "raw" file URL.
+2.  **Open AdGuard Home Settings:** Access the web interface of your AdGuard Home.
+3.  **Add the List:**
+    * Go to the "Filters" section.
+    * Click on "Blocklists" or "Whitelists," depending on the list type.
+    * Click "Add List."
+    * Paste the raw file URL you copied.
+    * Click "Add."
+4.  **Apply Changes:** AdGuard Home will automatically download and apply the list.
 
-## Contribuciones
+## Contributions
 
-Dado que estas listas son principalmente para uso personal, las contribuciones externas pueden no ser aceptadas. Sin embargo, si tienes sugerencias o correcciones, puedes crear un "issue" para discutirlas.
+Since these lists are primarily for personal use, external contributions may not be accepted. However, if you have suggestions or corrections, you can create an "issue" to discuss them.
 
-## Licencia
+## License
 
-Este repositorio se distribuye bajo la licencia [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Consulta el archivo `LICENSE` para obtener más información.
+This repository is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See the `LICENSE` file for more details.
 
-## Contacto
+## Contact
 
-Si tienes alguna pregunta o comentario, puedes crear un "issue" en este repositorio.
+If you have any questions or comments, feel free to open an "issue" in this repository.
 
-¡Gracias por tu comprensión!
+Thank you for your understanding!
