@@ -159,5 +159,11 @@
 @@||f.whatsapp.net^$client='Natalia Neira'
 @@||f.whatsapp.net^$client='Adriana Lara'
 
-
 # Fin de la Whatsapp
+
+#PMG Website
+
+@@||premiermedgroup.com^$client='Daniela Torres'
+@@||premiermedgroup.com^$client='Jacqueline Franco'
+@@||premiermedgroup.com^$client='Natalia Neira'
+@@||premiermedgroup.com^$client='Adriana Lara'
