@@ -12,7 +12,7 @@
 # 📅 Last Updated: 14/03/2025
 
 
-# 🔄 Servicios esenciales  
+# 🔄 Servicios esenciales 
 @@||microsoft.com^  
 @@||office.com^  
 @@||windowsupdate.com^  
@@ -20,7 +20,22 @@
 @@||icloud.com^  
 @@||google.com^  
 @@||gstatic.com^  
-@@||googleapis.com^  
+@@||googleapis.com^ 
+#🚀FactorialHR
+@@||factorialhr.com^  
+@@||app.factorialhr.com^  
+@@||help.factorialhr.com^  
+@@||factorial.es^  
+@@||accounts.google.com^  
+@@||login.microsoftonline.com^  
+@@||okta.com^  
+@@||storage.googleapis.com^  
+@@||fonts.gstatic.com^  
+@@||fonts.googleapis.com^  
+@@||smtp.sendgrid.net^  
+@@||api.twilio.com^  
+@@||analytics.google.com^  
+@@||segment.com^  
 
 # 💬 Mensajería y comunicación   
 @@||zoom.us^  
