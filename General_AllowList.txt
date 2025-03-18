@@ -25,16 +25,11 @@
 @@||factorialhr.com^  
 @@||app.factorialhr.com^  
 @@||help.factorialhr.com^  
-@@||factorial.es^  
-@@||accounts.google.com^  
+@@||factorial.es^    
 @@||login.microsoftonline.com^  
-@@||okta.com^  
-@@||storage.googleapis.com^  
-@@||fonts.gstatic.com^  
-@@||fonts.googleapis.com^  
+@@||okta.com^ 
 @@||smtp.sendgrid.net^  
-@@||api.twilio.com^  
-@@||analytics.google.com^  
+@@||api.twilio.com^   
 @@||segment.com^  
 
 # 💬 Mensajería y comunicación   
