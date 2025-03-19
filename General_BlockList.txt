@@ -41,4 +41,4 @@
 
 #Edge Browser
 ||bing.com^$important
-||msn.com^$important
+||msn.com^
