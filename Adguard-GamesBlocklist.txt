@@ -11074,3 +11074,4 @@
 ||_30407._https.vin-a.wormate.io^
 ||vin-a.wormate.io^
 ||gameplay.intel.com^
+||hexanaut.io^
