@@ -23,7 +23,8 @@
 ||artist99.cdn107.com^$important
 ||jango.com^$important
 ||es.jango.com^$important
-||album99.cdn107.com^$important
+||album99.cdn107.com^
+||mixcloud.com^$important
 
 #DNS Services
 ||dns.google^$important
