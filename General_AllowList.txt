@@ -12,8 +12,7 @@
 # 📅 Last Updated: 14/03/2025
 
 
-# 🔄 Servicios esenciales 
-@@||microsoft.com^  
+# 🔄 Servicios esenciales   
 @@||office.com^  
 @@||windowsupdate.com^  
 @@||apple.com^  
