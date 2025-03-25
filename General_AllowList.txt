@@ -52,6 +52,9 @@
 @@||treatment.grammarly.com^$important  
 @@||gnar.grammarly.com^$important  
 
+#Zinclusive
+@@||catalysttek.com^$important
+
 # 🎧 Talkdesk (Plataforma de Contact Center)  
 @@||talkdesk-prod.live.dynatrace.com^$important  
 @@||data.productdatausage.external.talkdeskapp.com^$important  
