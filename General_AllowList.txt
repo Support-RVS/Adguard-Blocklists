@@ -9,7 +9,7 @@
 # - It should only include essential domains to avoid interference in the daily use of services.
 # - It is updated as domains requiring access are identified in my environment.
 #
-# 📅 Last Updated: 14/03/2025
+# 📅 Last Updated: 27/03/2025
 
 
 # 🔄 Servicios esenciales   
@@ -35,8 +35,13 @@
 @@||zoom.us^  
 @@||meet.google.com^  
 
-# 📺 Streaming y multimedia   
-@@||spotify.demdex.net^$important  
+# 📺 Streaming y multimedia
+#Spotify
+@@||spotify.com^$important
+@@||spotifycdn.net^$important
+@@||scdn.co^$important
+@@||spotifycdn.com^$important
+@@||spoti.fi^$important
 
 # 🔧 Herramientas de trabajo y productividad    
 @@||slack.com^  
