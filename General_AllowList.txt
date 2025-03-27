@@ -20,6 +20,9 @@
 @@||google.com^  
 @@||gstatic.com^  
 @@||googleapis.com^ 
+@@||cdnjs.cloudflare.com^
+@@||chrome.cloudflare-dns.com^
+
 #🚀FactorialHR
 @@||factorialhr.com^  
 @@||app.factorialhr.com^  
@@ -42,6 +45,8 @@
 @@||scdn.co^$important
 @@||spotifycdn.com^$important
 @@||spoti.fi^$important
+@@||pixel.spotify.com^
+@@||pixel-static.spotify.com^
 
 # 🔧 Herramientas de trabajo y productividad    
 @@||slack.com^  
