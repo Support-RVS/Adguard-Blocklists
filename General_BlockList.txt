@@ -14,6 +14,7 @@
 
 
 #Streaming & Music
+||yewtu.be^$important
 ||audiocdn27.mixcloud.com^$important
 ||api.arte.tv^$important
 ||arte.tv^$important
@@ -40,6 +41,7 @@
 ||yandex.ru^$important
 ||ya.ru^
 ||strm.yandex.ru^$important
+
 #LudoPages
 ||apuestasegura.net^
 ||juegosdeazar.com^
