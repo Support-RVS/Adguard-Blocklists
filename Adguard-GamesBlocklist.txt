@@ -12,6 +12,9 @@
 ! Compiled manually for use in AdGuard Home
 !
 
+||azgames.io^$important
+||agargame.io^$important
+||freegames.org^$important
 ||1001games.fr^
 ||007arcadegames.com^
 ||01-jeux-gratuit.com^
