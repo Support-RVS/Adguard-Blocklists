@@ -21,7 +21,7 @@
 @@||gstatic.com^  
 @@||googleapis.com^ 
 @@||cdnjs.cloudflare.com^
-@@||chrome.cloudflare-dns.com^
+# @@||chrome.cloudflare-dns.com^
 
 #🚀FactorialHR
 @@||factorialhr.com^  
